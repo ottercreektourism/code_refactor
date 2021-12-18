@@ -7,7 +7,7 @@ Given starter code for a simple company website, the task was to refactor the co
 
 What was done:
 
-- Adjusted all of the <div> tags to be something more meaningful than <div>. Replaced many of them with header, main, section, nav, and aside.
+- Adjusted all of the div tags to be something more meaningful than div. Replaced many of them with header, main, section, nav, and aside.
 - Added alt text to images
 - Changed the title of the website to something more descriptive
 - Condensed and consolidated the classes so that there were fewer lines of code and it was all straight-forward.
